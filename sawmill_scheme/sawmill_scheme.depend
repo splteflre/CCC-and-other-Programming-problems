@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430098446 source:c:\users\jack\desktop\ccc_problems\sawmill_scheme\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439772440 source:c:\users\jack\desktop\ccc_problems\tree_counting\main.cpp
+	<iostream>
+	<cstdio>
+	<bits/stdc++.h>
+

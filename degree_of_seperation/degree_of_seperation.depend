@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448849541 source:c:\users\jack\desktop\ccc_problems\degree_of_seperation\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+

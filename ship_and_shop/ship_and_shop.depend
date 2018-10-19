@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427068661 source:c:\users\jack\desktop\ship_and_shop\main.cpp
+	<iostream>
+	<algorithm>
+

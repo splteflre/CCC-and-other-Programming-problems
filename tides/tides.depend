@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450054936 source:c:\users\jack\desktop\ccc_problems\tides\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+

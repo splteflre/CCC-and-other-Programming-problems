@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442192108 source:c:\users\jack\desktop\ccc_problems\keep_on_trucking\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

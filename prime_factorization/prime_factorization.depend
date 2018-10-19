@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1455415318 source:c:\users\jack\desktop\ccc_problems\prime_factorization\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
